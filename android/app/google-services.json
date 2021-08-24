@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "378863887375",
+    "project_id": "heartily-chat",
+    "storage_bucket": "heartily-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378863887375:android:f4c4e040d4de0d0bd4ef7a",
+        "android_client_info": {
+          "package_name": "co.RadhaApps.HeartilyChat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378863887375-vt7pm8sshl3gjr0ojapg25uvmp315e0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoohC1gK9zFo5_RdlaTrVVYv_6apT80-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "378863887375-vt7pm8sshl3gjr0ojapg25uvmp315e0b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
